@@ -1,0 +1,2 @@
+cd todo
+npm start
